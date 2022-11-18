@@ -2,7 +2,7 @@
 
 <!--
 **farhanpro/farhanpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![@farhan549's Holopin board](https://holopin.me/farhan549)](https://holopin.io/@farhan549)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- [![@farhan549's Holopin board](https://holopin.me/farhan549)](https://holopin.io/@farhan549)
 -->
