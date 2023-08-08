@@ -1,10 +1,10 @@
 ### Hi there 👋
 [![@farhan549's Holopin board](https://holopin.me/farhan549)](https://holopin.io/@farhan549)
-- 🔭 I’m currently working as a Backend Developer.
-- 🌱 I’m currently learning NodeJS,MongoDB,Express,MySql
-- 👯 I’m looking to collaborate on Javascript
-- 🤔 I’m looking for help with Backend development
-- 💬 Ask me about Web Development
+- 🔭 I’m currently working as a Software Developer.
+- 🌱 I’m currently learning Angular, Ionic.
+- 👯 I’m looking to collaborate on Javascript.
+- 🤔 I’m looking for help with Angular.
+- 💬 Ask me about Web Development/App development.
 - 📫 How to reach me: shaikhfarhan549@gmail.com
 - 😄 Pronouns: Farhan
 <!--
